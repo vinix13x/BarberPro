@@ -18,7 +18,7 @@ export default function Trending() {
 
     useEffect(() => {
          async function getBarber() {
-            const response = await fetch('http://192.168.0.201:3000/servicos');
+            const response = await fetch('http://192.168.185.230:3000/servicos');
             const data = await response.json();
             setBarber(data);
          }

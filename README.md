@@ -1,50 +1,48 @@
-# Welcome to your Expo app 👋
+<div align="center">
+    <img src="https://res.cloudinary.com/dlc39say2/image/upload/v1743028131/otuen5qiwjqag8tprobo.svg" width="300px"/>
+</div>
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<br />
 
-## Get started
+<h2 align="center">
+   💈✂️ BarberPRO ✂️💈
+</h2>
 
-1. Install dependencies
 
-   ```bash
-   npm install
-   ```
+## Project 
 
-2. Start the app
+Projeto
 
-   ```bash
-    npx expo start
-   ```
+💈 Um aplicativo de agendamento para barbearias, permitindo que os usuários escolham entre uma lista de barbearias. 💈
 
-In the output, you'll find options to open the app in a
+ <p align="center">
+  <img src="https://res.cloudinary.com/dlc39say2/image/upload/v1743028429/sntxe2bxgbbxkfnk2fxv.png" >
+</p>
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## Tecnologias Utilizadas
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+Este projeto foi desenvolvido com as seguintes tecnologias:
 
-## Get a fresh project
+<details>
+  <summary>Tecnologias</summary>
 
-When you're ready, run:
+-   
+-   [Typescript](https://www.typescriptlang.org/)
+-   [Tailwind](https://www.npmjs.com/package/ts-node-dev)
+-   [Expo](https://www.mongodb.com/)
+-   [React Native](https://www.docker.com/docker-community)
+-   [Android Studio](https://www.postgresql.org/)
+-   [VS Code](https://code.visualstudio.com/)
 
-```bash
-npm run reset-project
-```
+</details>
+</details>
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+## :information_source: Como executar
 
-## Learn more
+### Requisitos
+Para executar a aplicação, você precisará de:
+* [Git](https://git-scm.com)
+* [Node](https://nodejs.org/)
+* [Yarn](https://yarnpkg.com/) 
 
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+Feito por: Vinix13x
