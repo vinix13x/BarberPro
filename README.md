@@ -45,4 +45,4 @@ Para executar a aplicação, você precisará de:
 * [Node](https://nodejs.org/)
 * [Yarn](https://yarnpkg.com/) 
 
-Feito por: Vinix13
+Feito por: Vinix13x
