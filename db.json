@@ -1,0 +1,95 @@
+{
+    "barbearias": [
+    { 
+      "id": "1", 
+      "name": "Barbearia Elite", 
+      "image": "https://imgur.com/REIiLpP.png",
+      "km": 2.5,
+      "status": "Aberto"
+    },
+    { 
+      "id": "2", 
+      "name": "Corte Fino", 
+      "image": "https://imgur.com/13byZmF.png",
+      "km": 1.8,
+      "status": "Fechado"
+    },
+    { 
+      "id": "3", 
+      "name": "Barba & Cia", 
+      "image": "https://imgur.com/zD7gLMx.png",
+      "km": 3.2,
+      "status": "Aberto"
+    },
+    { 
+      "id": "4", 
+      "name": "Senhor do Corte", 
+      "image": "https://imgur.com/V2WKkcH.png",
+      "km": 4.0,
+      "status": "Fechado"
+    },
+    { 
+      "id": "5", 
+      "name": "Clássico Barber", 
+      "image": "https://imgur.com/aGos3xH.png",
+      "km": 2.0,
+      "status": "Aberto"
+    },
+    { 
+      "id": "6", 
+      "name": "Estilo Urbano", 
+      "image": "https://imgur.com/oNEZvpq.png",
+      "km": 5.5,
+      "status": "Fechado"
+    }
+  ],
+
+    "servicos": [
+      { 
+        "id": "1", 
+        "name": "Barbearia Imperial", 
+        "price": "9 Km",
+        "time": "30-40 min",
+        "rating": 4.8,
+        "image": "https://imgur.com/btWFCHh.png",
+        "barbeariaId": "1"
+      },
+      { 
+        "id": "2", 
+        "name": "Cavalheiro Barbershop", 
+        "price": "29 km",
+        "time": "20-30 min",
+        "rating": 4.9,
+        "image": "https://imgur.com/LYrDcfz.png",
+        "barbeariaId": "6"
+      },
+      { 
+        "id": "3", 
+        "name": "Corte + Barba", 
+        "price": "4 km",
+        "time": "50-60 min",
+        "rating": 4.5,
+        "image": "https://imgur.com/ggK8AOQ.png",
+        "barbeariaId": "5"
+      },
+      { 
+        "id": "4", 
+        "name": "Rei da Navalha", 
+        "price": "36 km",
+        "time": "15-20 min",
+        "rating": 4.4,
+        "image": "https://imgur.com/qfgRbd3.png",
+        "barbeariaId": "3"
+      },
+      { 
+        "id": "5", 
+        "name": "Clássicos do Corte", 
+        "price": "20 km",
+        "time": "30-40 min",
+        "rating": 4.4,
+        "image": "https://imgur.com/dF8eQrg",
+        "barbeariaId": "3"
+      }
+    ]
+  }
+  
