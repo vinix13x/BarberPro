@@ -17,7 +17,7 @@ export function Barbearias() {
 
     useEffect(() => {
         async function getBarber() {
-           const response = await fetch('http://192.168.0.201:3000/barbearias');
+           const response = await fetch('http://192.168.185.230:3000/barbearias');
            const data = await response.json();
            setBarbearias(data);
         }
