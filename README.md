@@ -1,48 +1,55 @@
-<div align="center">
-    <img src="https://res.cloudinary.com/dlc39say2/image/upload/v1743028131/otuen5qiwjqag8tprobo.svg" width="300px"/>
-</div>
 
-<br />
+<h1 align="center">💈✂️ BarberPRO ✂️💈</h1>
 
-<h2 align="center">
-   💈✂️ BarberPRO ✂️💈
-</h2>
+<p align="center">
+  <img src="https://res.cloudinary.com/dlc39say2/image/upload/v1743028429/sntxe2bxgbbxkfnk2fxv.png" width="400">
+</p>
 
+---
 
-## Project 
-
-Projeto
+## 💻 Sobre
 
 💈 Um aplicativo de agendamento para barbearias, permitindo que os usuários escolham entre uma lista de barbearias. 💈
 
- <p align="center">
-  <img src="https://res.cloudinary.com/dlc39say2/image/upload/v1743028429/sntxe2bxgbbxkfnk2fxv.png" >
-</p>
+## 🤯 O site é composto por:
 
-## Tecnologias Utilizadas
+- **Home:** Minha apresentação;
+- **Sobre mim:** Falo um pouco sobre minha trajetória e meu estado atual;
+- **Projetos:** Alguns projetos recentes que fiz;
+- **Conhecimentos:** As tecnologias que tenho conhecimento;
+- **Fale comigo:** Área com meios para contato comigo;
+- **Redes:** Minhas redes sociais disponíveis no menu de navegação e no rodapé do site.
 
-Este projeto foi desenvolvido com as seguintes tecnologias:
+## 🧠 Tecnologias utilizadas:
 
-<details>
-  <summary>Tecnologias</summary>
+O site **ainda está em desenvolvimento**, pois estou em constante aprendizado. Mas até aqui utilizei as tecnologias:
 
--   
--   [Typescript](https://www.typescriptlang.org/)
--   [Tailwind](https://www.npmjs.com/package/ts-node-dev)
--   [Expo](https://www.mongodb.com/)
--   [React Native](https://www.docker.com/docker-community)
--   [Android Studio](https://www.postgresql.org/)
--   [VS Code](https://code.visualstudio.com/)
+<div>
+    <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
+    <img src="https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+    <img src="https://img.shields.io/badge/Figma-696969?style=for-the-badge&logo=figma&logoColor=figma" />
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" />
+    <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />
+    <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+</div>
 
-</details>
-</details>
+## 📚 Alguns conceitos aplicados
 
-## :information_source: Como executar
+Neste projeto apliquei os seguintes conceitos:
 
-### Requisitos
-Para executar a aplicação, você precisará de:
-* [Git](https://git-scm.com)
-* [Node](https://nodejs.org/)
-* [Yarn](https://yarnpkg.com/) 
+- Pontos de acessibilidade para garantir uma experiência inclusiva;
+- Responsividade para adaptação em diferentes dispositivos;
+- Mobile first para priorizar o design em dispositivos móveis;
+- Utilização da biblioteca JavaScript [Scroll Reveal](https://scrollrevealjs.org) para animações de rolagem.
 
-Feito por: Vinix13x
+---
+
+<table>
+  <tr>
+    <td>
+      Feito por <a href="https://github.com/vinix13x">Vinix13x.</a> 
+    </td>
+  </tr>
+</table>
+
+
